@@ -146,6 +146,4 @@ architecture Behavioral of neuralnet is
 
 begin
 
-    -- ToDo: layer definitions + state machine that loops through layers one by one.
-
 end Behavioral;
